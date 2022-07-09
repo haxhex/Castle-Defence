@@ -1,4 +1,7 @@
 # Castle-Defence
+
+This is a 2D based Game similar to Clash Royal Game - Which was the last project for Advanced Programming
+
 Players Name
 
 ![image](https://user-images.githubusercontent.com/99765893/178075086-198b80b5-1b47-4ff4-9762-c13d0222a3f4.png)
